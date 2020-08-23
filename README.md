@@ -1,4 +1,4 @@
 # hello-world
 Olá pessoal!
-Eu sou o Anster e sou novo nesta planta-forma, toda ajuda sera bem vinda.
-Obrigado
+Mr Nguende aqui. Estou aprendendo a trabalhar com o github, toda ajuda será bem vinda.
+Obrigado.
